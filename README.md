@@ -102,13 +102,14 @@ AyurSutra/
 ## Contributors
 
 <p align="center">
-  <a href="https://github.com/Darkegale12" style="text-decoration: none; margin: 10px;">
-    <img src="https://avatars.githubusercontent.com/Darkegale12" alt="Vishwajeet More" width="100" height="100" style="border-radius: 50%;"/>
+  <a href="https://github.com/Darkegale12">
+    <img src="https://avatars.githubusercontent.com/Darkegale12" width="100" height="100" alt="Vishwajeet More"/>
     <br />
     <sub><b>Vishwajeet More</b></sub>
   </a>
-  <a href="https://github.com/Tanushka-Chavan" style="text-decoration: none; margin: 10px;">
-    <img src="https://avatars.githubusercontent.com/Tanushka-Chavan" alt="Tanushka Chavan" width="100" height="100" style="border-radius: 50%;"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Tanushka-Chavan">
+    <img src="https://avatars.githubusercontent.com/Tanushka-Chavan" width="100" height="100" alt="Tanushka Chavan"/>
     <br />
     <sub><b>Tanushka Chavan</b></sub>
   </a>
