@@ -98,21 +98,24 @@ AyurSutra/
 └── README.md
 ```
 ## Contributors
-[![Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![Contributors](https://img.shields.io/badge/All_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
+## Contributors
 
 <p align="center">
   <a href="https://github.com/Darkegale12">
-    <img src="https://avatars.githubusercontent.com/Darkegale12" width="100" alt="Vishwajeet More"/>
+    <img src="https://avatars.githubusercontent.com/Darkegale12" width="80" alt="Vishwajeet More"/>
     <br />
     <sub><b>Vishwajeet More</b></sub>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Tanushka-Chavan">
-    <img src="https://avatars.githubusercontent.com/Tanushka-Chavan" width="100" alt="Tanushka Chavan"/>
+    <img src="https://avatars.githubusercontent.com/Tanushka-Chavan" width="80" alt="Tanushka Chavan"/>
     <br />
     <sub><b>Tanushka Chavan</b></sub>
   </a>
 </p>
+
 
 
 ##  Collaboration & Contact
