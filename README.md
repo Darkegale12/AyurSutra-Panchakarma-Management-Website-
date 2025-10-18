@@ -44,8 +44,8 @@ It integrates **smart scheduling, treatment tracking, doctor verification, and u
 ---
 
 ## 🖼️ Project Screenshots
+![Project](assets/Screenshot_2025-09-26_231923.png)
 
-![Project](assets/Screenshot 2025-09-26 231923.png)
 
 ---
 
