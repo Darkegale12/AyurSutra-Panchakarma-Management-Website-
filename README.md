@@ -16,7 +16,7 @@ It integrates **smart scheduling, treatment tracking, doctor verification, and u
 
 ## 🏗️ System Architecture
 
-<img src="assets/architecture.png" alt="System Architecture" width="600"/>
+<img src="assets/architecture.png" alt="System Architecture" width="400"/>
 
 ### Overview
 - Layered structure ensures modularity and maintainability:
@@ -44,7 +44,7 @@ It integrates **smart scheduling, treatment tracking, doctor verification, and u
 ---
 
 
-![Project Screenshots](assets/Screenshot_2025-09-26_231923.png)
+<img src="assets/Screenshot_2025-09-26_231923.png" alt="Project Screenshots" width="200"/>
 
 
 ---
