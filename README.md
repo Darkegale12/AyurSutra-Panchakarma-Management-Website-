@@ -1,4 +1,4 @@
-# 🩺 AyurSutra – Smart Panchakarma Management System
+# AyurSutra – Smart Panchakarma Management System
 
 ### A Next-Generation Ayurvedic Care Platform
 
@@ -32,14 +32,14 @@ It integrates **smart scheduling, treatment tracking, doctor verification, and u
 
 ## ⚙️ Core Features
 
-- 🗓️ **Smart Scheduling** – Auto-manages appointments for pre- and post-Panchakarma treatments.  
-- 💊 **Medication Tracking** – Keeps logs of medicines, dosages, and durations for each phase.  
-- 💬 **Feedback System** – Collects patient feedback at every stage to improve service quality.  
-- 🧾 **Treatment Roadmap View** – Visual representation of the complete therapy lifecycle.  
-- 🧑‍⚕️ **Doctor Verification via AyurGrid** – Ensures practitioner authenticity and transparency.  
-- 🗂️ **Centralized Medical Reports** – Stores prescriptions, test reports, and summaries securely.  
-- 📧 **Smart Notifications** – Sends timely updates and reminders through email.  
-- 📄 **Unified Health Summary PDF** – Generates a consolidated medical history document.
+-  **Smart Scheduling** – Auto-manages appointments for pre- and post-Panchakarma treatments.  
+-  **Medication Tracking** – Keeps logs of medicines, dosages, and durations for each phase.  
+-  **Feedback System** – Collects patient feedback at every stage to improve service quality.  
+-  **Treatment Roadmap View** – Visual representation of the complete therapy lifecycle.  
+-  **Doctor Verification via AyurGrid** – Ensures practitioner authenticity and transparency.  
+-  **Centralized Medical Reports** – Stores prescriptions, test reports, and summaries securely.  
+-  **Smart Notifications** – Sends timely updates and reminders through email.  
+-  **Unified Health Summary PDF** – Generates a consolidated medical history document.
 
 ---
 
@@ -75,7 +75,7 @@ npm install
 
 # Start the development server
 npm run dev
-```
+
 
 
 AyurSutra/
@@ -98,7 +98,7 @@ AyurSutra/
 │   └── screenshot.png
 │
 └── README.md
-
+```
 ## 👥 Contributors
 
 <p align="center">
@@ -116,11 +116,11 @@ AyurSutra/
 </p>
 
 
-This project is licensed under the Eclipse Public License – v 2.0.
-For more information,visit https://www.eclipse.org/legal/epl-2.0/
-
 ## 🤝 Collaboration & Contact
 
 For usage, contributions, or collaboration opportunities, feel free to reach out:  
 📧 **vishwajeet12.messi@gmail.com**
 
+## License
+This project is licensed under the Eclipse Public License – v 2.0.
+For more information,visit https://www.eclipse.org/legal/epl-2.0/
