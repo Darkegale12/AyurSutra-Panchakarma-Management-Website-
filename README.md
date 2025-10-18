@@ -63,7 +63,7 @@ It integrates **smart scheduling, treatment tracking, doctor verification, and u
 
 ---
 
-## 🚀 Run the Application
+##  Run the Application
 
 ### 💻 Frontend (React + Next.js)
 ```bash
@@ -75,9 +75,9 @@ npm install
 
 # Start the development server
 npm run dev
+```
 
-
-
+```
 AyurSutra/
 │
 ├── Backend[Spring Boot]/
@@ -99,7 +99,7 @@ AyurSutra/
 │
 └── README.md
 ```
-## 👥 Contributors
+##  Contributors:
 
 <p align="center">
   <a href="https://github.com/Darkegale12">
@@ -116,7 +116,7 @@ AyurSutra/
 </p>
 
 
-## 🤝 Collaboration & Contact
+##  Collaboration & Contact
 
 For usage, contributions, or collaboration opportunities, feel free to reach out:  
 📧 **vishwajeet12.messi@gmail.com**
