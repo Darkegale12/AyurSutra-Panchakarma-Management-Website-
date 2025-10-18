@@ -3,8 +3,6 @@
 ### A Next-Generation Ayurvedic Care Platform
 
 AyurSutra is a comprehensive web platform designed to streamline the **Panchakarma therapy management process** open for Ayurvedic practitioners and patients.  
-It integrates **smart scheduling, treatment tracking, doctor verification, and unified medical record management** — delivering a seamless experience powered by modern full-stack technologies.
-
 ---
 
 ## 🧠 Key Highlights
@@ -100,6 +98,7 @@ AyurSutra/
 └── README.md
 ```
 ## Contributors
+[![Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 
 <p align="center">
   <a href="https://github.com/Darkegale12">
