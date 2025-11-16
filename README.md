@@ -105,26 +105,27 @@ AyurSutra/
 ## Contributors
 
 <p align="center">
-  <a href="https://github.com/Darkegale12">
-    <img src="https://avatars.githubusercontent.com/Darkegale12" width="70" alt="Vishwajeet More"/>
+
+  <a href="https://github.com/Darkegale12" style="display:inline-block; text-align:center; margin: 0 20px;">
+    <img src="https://avatars.githubusercontent.com/Darkegale12" width="80" alt="Vishwajeet More"/>
     <br />
     <sub><b>Vishwajeet More</b></sub>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://github.com/Tanushka-Chavan">
-    <img src="https://avatars.githubusercontent.com/Tanushka-Chavan" width="70" alt="Tanushka Chavan"/>
+
+  <a href="https://github.com/Tanushka-Chavan" style="display:inline-block; text-align:center; margin: 0 20px;">
+    <img src="https://avatars.githubusercontent.com/Tanushka-Chavan" width="80" alt="Tanushka Chavan"/>
     <br />
     <sub><b>Tanushka Chavan</b></sub>
   </a>
-  &nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/10kgDumbbell">
-    <img src="https://avatars.githubusercontent.com/10kgDumbbell" width="70" alt="Atharva Mahamuni"/>
+  <a href="https://github.com/10kgDumbbell" style="display:inline-block; text-align:center; margin: 0 20px;">
+    <img src="https://avatars.githubusercontent.com/10kgDumbbell" width="80" alt="Atharva Mahamuni"/>
     <br />
     <sub><b>Atharva Mahamuni</b></sub>
   </a>
+
 </p>
+
 
 
 
