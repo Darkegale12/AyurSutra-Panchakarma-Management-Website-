@@ -47,7 +47,7 @@ AyurSutra is a comprehensive web platform designed to streamline the **Panchakar
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Category | Technologies |
 |-----------|--------------|
@@ -101,20 +101,30 @@ AyurSutra/
 [![Contributors](https://img.shields.io/badge/All_contributors-2-orange.svg?style=flat-square)](#contributors-)
 
 ## Contributors
+[![Contributors](https://img.shields.io/badge/All_contributors-3-orange.svg?style=flat-square)](#contributors-)
+
+## Contributors
 
 <p align="center">
   <a href="https://github.com/Darkegale12">
-    <img src="https://avatars.githubusercontent.com/Darkegale12" width="80" alt="Vishwajeet More"/>
+    <img src="https://avatars.githubusercontent.com/Darkegale12" width="80" style="border-radius:50%;" alt="Vishwajeet More"/>
     <br />
     <sub><b>Vishwajeet More</b></sub>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Tanushka-Chavan">
-    <img src="https://avatars.githubusercontent.com/Tanushka-Chavan" width="80" alt="Tanushka Chavan"/>
+    <img src="https://avatars.githubusercontent.com/Tanushka-Chavan" width="80" style="border-radius:50%;" alt="Tanushka Chavan"/>
     <br />
     <sub><b>Tanushka Chavan</b></sub>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/10kgDumbbell">
+    <img src="https://avatars.githubusercontent.com/10kgDumbbell" width="80" style="border-radius:50%;" alt="Atharva Mahamuni"/>
+    <br />
+    <sub><b>Atharva Mahamuni</b></sub>
+  </a>
 </p>
+
 
 
 
