@@ -97,8 +97,7 @@ AyurSutra/
 │
 └── README.md
 ```
-## Contributors
-[![Contributors](https://img.shields.io/badge/All_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
 
 ## Contributors
 [![Contributors](https://img.shields.io/badge/All_contributors-3-orange.svg?style=flat-square)](#contributors-)
