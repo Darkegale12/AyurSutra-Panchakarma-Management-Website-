@@ -100,29 +100,29 @@ AyurSutra/
 
 
 ## Contributors
-[![Contributors](https://img.shields.io/badge/All_contributors-3-orange.svg?style=flat-square)](#contributors-)
 
-<div align="center">
-  <div style="display:flex; gap:30px; justify-content:center;">
-
-    <a href="https://github.com/Darkegale12">
-      <img src="https://avatars.githubusercontent.com/Darkegale12" width="80"/><br/>
-      <sub><b>Vishwajeet More</b></sub>
-    </a>
-
-    <a href="https://github.com/Tanushka-Chavan">
-      <img src="https://avatars.githubusercontent.com/Tanushka-Chavan" width="80"/><br/>
-      <sub><b>Tanushka Chavan</b></sub>
-    </a>
-
-    <a href="https://github.com/10kgDumbbell">
-      <img src="https://avatars.githubusercontent.com/10kgDumbbell" width="80"/><br/>
-      <sub><b>Atharva Mahamuni</b></sub>
-    </a>
-
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Darkegale12">
+        <img src="https://avatars.githubusercontent.com/Darkegale12" width="80" alt="Vishwajeet More"/><br/>
+        <sub><b>Vishwajeet More</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Tanushka-Chavan">
+        <img src="https://avatars.githubusercontent.com/Tanushka-Chavan" width="80" alt="Tanushka Chavan"/><br/>
+        <sub><b>Tanushka Chavan</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/10kgDumbbell">
+        <img src="https://avatars.githubusercontent.com/10kgDumbbell" width="80" alt="Atharva Mahamuni"/><br/>
+        <sub><b>Atharva Mahamuni</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
