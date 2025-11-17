@@ -121,8 +121,15 @@ AyurSutra/
         <sub><b>Atharva Mahamuni</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/DuKemet">
+        <img src="https://avatars.githubusercontent.com/DuKemet" width="80" alt="Vedant Naikwadi"/><br/>
+        <sub><b>Vedant Naikwadi</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
+
 
 
 
