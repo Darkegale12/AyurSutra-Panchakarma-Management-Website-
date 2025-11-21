@@ -133,6 +133,12 @@ AyurSutra/
         <sub><b>Mugdha Sonawane</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/poorva234">
+        <img src="https://avatars.githubusercontent.com/poorva234" width="80" alt="Poorva Chougule"/><br/>
+        <sub><b>Poorva Chougule</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
