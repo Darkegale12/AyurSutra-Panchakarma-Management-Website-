@@ -127,6 +127,12 @@ AyurSutra/
         <sub><b>Vedant Naikwadi</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/mugdhasonawane1">
+        <img src="https://avatars.githubusercontent.com/mugdhasonawane1" width="80" alt="Mugdha Sonawane"/><br/>
+        <sub><b>Mugdha Sonawane</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
