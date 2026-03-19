@@ -47,7 +47,7 @@ AyurSutra is a comprehensive web platform designed to streamline the **Panchakar
 
 ---
 
-##  Tech Stack
+##  Tech Stack used
 
 | Category | Technologies |
 |-----------|--------------|
